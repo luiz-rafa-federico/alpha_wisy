@@ -2,7 +2,6 @@ import pandas as pd
 import time
 import os
 from flask import jsonify
-import ujson
 
 from . import euro, north, latin, africa, roles, industries
 
